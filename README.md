@@ -3,6 +3,12 @@
 <img src="./program_info/dabmc-header.png#gh-dark-mode-only" alt="DabMC logo" width="50%"/>
 </p>
 
+# NOTE!
+
+This project is no longer being developed due to the death of PolyMC.
+For a curently maintained version of DabMC, please use https://github.com/X-Pro72/DabMC
+
+
 DISCLAIMER! This fork is not PolyMC and is not endorsed by or affiliated with the PolyMC project (https://polymc.org).
 Do not complain to PolyMC about any issues you encounter while using this fork. Don't complain to me either.
 
